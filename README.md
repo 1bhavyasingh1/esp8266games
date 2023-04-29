@@ -1,2 +1,2 @@
-# esp8266games
+# esp8266
 CTF games
